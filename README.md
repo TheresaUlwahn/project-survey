@@ -4,6 +4,10 @@ For this site I used React to build a survey form, similar to typeform. The comp
 
 I chose to have a CrossFit theme of this survey.
 
+## View it live
+
+https://mrsucodesproject10thecrossfitsurvey.netlify.com/
+
 ## Questions asked and answered
 
 * How to use form fields with React
@@ -21,6 +25,3 @@ I used a strong picture and then the inputs had labels and are easily readable a
 * At least one question should use a select dropdown.
 * A submit button, which when pressed hides the form and show a summary of the user's submissions.
 
-## View it live
-
-https://mrsucodesproject10thecrossfitsurvey.netlify.com/
